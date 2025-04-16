@@ -22,15 +22,15 @@ So, after being the resident computer nerd in high school, I consulted with seve
 upgrades, software installs, server upgrades, the normal level 1 or 2 help desk stuff that they didn't want to hire for. Eventually, I
 decided to get some formal education, and went to a local tech college majoring in Information and Network Technology. After breezing
 through that, I moved on to formally work for a local MSP. I stayed with MSP's for pretty much my entire career, they seemed to offer
-a variety that you couldn't find working for as an inhouse tech. Besides, I'd seen enough inhouse tech's that had really let their
-skills go to realize I didn't want that for myself.
+a variety that you couldn't find working as an inhouse tech. Besides, I'd seen enough inhouse tech's that had really let their skills
+go to realize I didn't want that for myself.
 
 Working at MSP's gave a good variety. Everything from advanced networking and systems deployments to migrations to consulting gigs
 advising an inhouse department the best way to deploy a new technology and troubleshooting technologies that the inhouse team wasn't
 qualified or advanced enough to tackle. Eventually I worked my way up to being "the" senior level guy, and the one that everyone
 turned to when they couldn't figure something out. I love solving problems and usually if the problems got to me, they were pretty
-complex. Unfortunately a few of my employers told me I had capped out, and that without specializing or moving in to management, I
-was probably never going to advance. Since I don't like managment, it looked like it was time to specialize. This brings us to now.
+complex. Unfortunately, a few of my employers told me I had capped out, and that without specializing or moving in to management, I
+was probably never going to advance. Since I don't like management, it looked like it was time to specialize. This brings us to now.
 
 # So where are we trying to get to now?
 
